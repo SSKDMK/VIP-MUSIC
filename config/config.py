@@ -59,7 +59,7 @@ EXTRA_PLUGINS_REPO = getenv(
 
 EXTRA_PLUGINS_FOLDER = getenv("EXTRA_PLUGINS_FOLDER", "plugins")
 
-# Your folder name in your extra plugins repo where all plugins stored
+# Your folder name in your extra plugins repo https://github.com/SSKDMK/VIP-MUSIC all plugins stored
 
 
 # Duration Limit for downloading Songs in MP3 or MP4 format from bot
@@ -95,7 +95,7 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 # For customized or modified Repository
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/THE-VIP-BOY-OP/VIP-MUSIC",
+    "",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 
